@@ -20,7 +20,7 @@ namespace UKDarkmode
         public void Update()
         {
             Scene ACTIVE = SceneManager.GetActiveScene();
-            if (Time.timeSinceLevelLoad > UnityEngine.Random.Range(4, 6) && ACTIVE.name != "Main Menu")
+            if (Time.timeSinceLevelLoad > UnityEngine.Random.Range(4, 6) && ACTIVE.name != "Main Menu" && ACTIVE.name != "Intro")
             {
                 DarkMode();
             }
