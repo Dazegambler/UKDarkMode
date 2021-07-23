@@ -4,7 +4,7 @@ Turns off all Lights on the level and you'll only have a flashlight to navigate 
 
 All Lights in the level with a few needed exceptions will be turned off and you'll be given a flashlight to see in the dark.
 
-Note:Enemies will still glow like they have a light attached to them but i dont know exactly why
+Note:Enemies will still glow because they have a unlit material with the exception of 4-3 which they have a different material to them
 
 # Installing
 
