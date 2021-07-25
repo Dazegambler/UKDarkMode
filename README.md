@@ -2,6 +2,8 @@
 Turns off all Lights on the level and you'll only have a flashlight to navigate through the level in Ultrakill
 # Description
 
+WARNING:THIS MOD IS RESOURCE INTENSIVE AND WILL REDUCE YOUR FRAMERATE NOTICIBLY, I'M TRYING TO MAKE IT AS OPTIMIZED AS POSSIBLE.
+
 All Lights in the level with a few needed exceptions will be turned off and you'll be given a flashlight to see in the dark.
 
 Current Issues:
