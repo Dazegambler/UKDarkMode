@@ -9,9 +9,8 @@ All Lights in the level with a few needed exceptions will be turned off and you'
 
 Current Issues:
 
-1.Enemies not Being affected by the light/lack of light(Fixed...coming next update)
+1.V2 not having the correct shader applied(Not surprised at this point)
 
-2.P-1 Making the flashlight produce sound
 
 # Installing
 
