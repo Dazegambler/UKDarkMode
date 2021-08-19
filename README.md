@@ -22,6 +22,8 @@ MUST USE 64 BIT VERSION OF BEPINEX 5
 
 Drop the UKDarkMode.Dll to your BepInEx/plugins File.
 
+LINK TO UKDARKMODE.DLL:https://github.com/Dazegambler/UKDarkMode/releases
+
 # Configuration
 
 NO CONFIGURATION NEEDED YET
